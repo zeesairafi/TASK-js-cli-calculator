@@ -20,7 +20,7 @@ This is an example of what your terminal should look like:
     
 ## Setup
 
-In your terminal, make sure you're inside the task directory and run `yarn install`.
+In your terminal, make sure you're inside the task directory and run `npm install`.
 
 ## Steps:
  
